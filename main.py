@@ -4,7 +4,7 @@ from gcp_manager import upload_to_gcp, view_gcp_bucket, delete_blobs
 def main():
     """Main function to handle user input and actions."""
     option = input(
-        "What would you like to do? \n1. View Blobs\n2. Upload new blob\n3. Delete files from GCP\n"
+        "What would you like to do? \n1. View Blobs 📂\n2. Upload new blob 📤\n3. Delete files from GCP 🗑️\n"
     )
 
     try:
