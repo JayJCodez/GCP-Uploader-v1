@@ -1,0 +1,22 @@
+# Official Dependencies for My GCP Project
+# These packages are required to run the project
+
+cachetools==5.5.0  # Utility for caching
+certifi==2024.7.4  # SSL certificates validation
+charset-normalizer==3.3.2  # Character encoding auto-detection
+google-api-core==2.19.2  # Core Google API components
+google-auth==2.34.0  # Authentication library for Google APIs
+google-cloud-core==2.4.1  # Core library for Google Cloud
+google-cloud-storage==2.18.2  # Google Cloud Storage client library
+google-crc32c==1.5.0  # CRC32C algorithm implementation
+google-resumable-media==2.7.2  # Media upload/download for Google APIs
+googleapis-common-protos==1.65.0  # Common protocol buffers for Google APIs
+idna==3.8  # Internationalized Domain Names in Applications
+proto-plus==1.24.0  # Protobuf message classes with better Python integration
+protobuf==5.28.0  # Protocol buffers library
+pyasn1==0.6.0  # ASN.1 tools for Python
+pyasn1_modules==0.4.0  # ASN.1 data structures for Python
+python-dotenv==1.0.1  # Load environment variables from .env file
+requests==2.32.3  # HTTP library for Python
+rsa==4.9  # RSA implementation in Python
+urllib3==2.2.2  # HTTP client for Python
